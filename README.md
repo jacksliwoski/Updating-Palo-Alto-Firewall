@@ -41,11 +41,11 @@ Patiently wait for installation to finish<br/>
 <img src="https://i.imgur.com/GKLfrhS.png" height="80%" width="80%" alt="Palo Alto Firewall Factory Reset Steps"/>
 <br />
 <br />
-5<br/>
+Once installation is done confirm with reboot<br/>
 <img src="https://i.imgur.com/Huc4zyk.png" height="80%" width="80%" alt="Palo Alto Firewall Factory Reset Steps"/>
 <br />
 <br />
-6<br/>
+Patiently wait for reboot to finish and we are all done<br/>
 <img src="https://i.imgur.com/02OtyLn.png" height="80%" width="80%" alt="Palo Alto Firewall Factory Reset Steps"/>
 <br />
 <br />
