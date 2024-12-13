@@ -33,7 +33,7 @@ To update the palo altos we had to be on the most recent dynamic update/firmware
 <img src="https://i.imgur.com/9BKEmbl.png" height="80%" width="80%" alt="Palo Alto Firewall Factory Reset Steps"/>
 <br />
 <br />
-3<br/>
+Once download is complete we need to install<br/>
 <img src="https://i.imgur.com/RW8zRu7.png" height="80%" width="80%" alt="Palo Alto Firewall Factory Reset Steps"/>
 <br />
 <br />
